@@ -1,1 +1,2 @@
 The master will now diverge
+another line
